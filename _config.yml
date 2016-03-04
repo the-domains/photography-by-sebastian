@@ -1,7 +1,7 @@
 name: Photography by Sebastian
 favicon: null
-layout_spectrum: 0.9729547710157931
-typography_spectrum: 0.8969452411402017
+layout_spectrum: 1
+typography_spectrum: 0.74765
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.09498564968816936
-  lightness: 0.6497597300913185
-  saturation: 0.9037647328805178
-  rhythmicContrast: 0.6391180010978132
+  lightness: 0.5
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
